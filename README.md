@@ -1,5 +1,4 @@
-## Next.js App Router Course - Starter
+# Cashly
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
-
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+**Cashly** is a modern financial dashboard built with **Next.js**, designed to help users manage their finances effortlessly.  
+It includes a secure authentication system, an intuitive dashboard, and tools to **add, edit, and delete invoices** — all backed by a robust database.  
